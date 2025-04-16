@@ -7,9 +7,9 @@
 
 ⚡🙋‍♂️ ***About me***
 
-I am an Engineer student at Universidad Politécnica de San Luis Potosí. C#, C, Python, CSS, HTML, SQL, AD, Windows Server I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Application development, Databases, Sofware Enginnering and Web development**
-- 🌱 I’m currently learning ...
+I am an Engineer student at Universidad Politécnica of San Luis Potosí. C#, C, Python, CSS, HTML, SQL, AD, Windows Server I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in roles as Junior Software Engineer, Database Specialist, IT Support Analyst, IT Manager junior, Technical Support Engineer.**
+- 🌱 I’m currently learning:
   - Java
   - Python
   - SQL Server
